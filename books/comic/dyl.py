@@ -6,7 +6,7 @@ from .cartoonmadbase import CartoonMadBaseBook
 def getBook():
     return dyl
 
-class Hunter(CartoonMadBaseBook):
+class dyl(CartoonMadBaseBook):
     title               = u'[漫画]地獄樂'
     description         = u'原創作者： 緒方俊輔, 吉岡剛'
     language            = 'zh-tw'
