@@ -6,7 +6,7 @@ from .cartoonmadbase import CartoonMadBaseBook
 def getBook():
     return Monkey
 
-class Hunter(CartoonMadBaseBook):
+class Monkey(CartoonMadBaseBook):
     title               = u'[漫画]Monkey Peak'
     description         = u'原創作者： 志名阪高次,粂田晃宏'
     language            = 'zh-tw'
