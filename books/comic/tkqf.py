@@ -6,7 +6,7 @@ from .cartoonmadbase import CartoonMadBaseBook
 def getBook():
     return tkqf
 
-class Hunter(CartoonMadBaseBook):
+class tkqf(CartoonMadBaseBook):
     title               = u'[漫画]天空侵犯'
     description         = u'原創作者： 大羽隆廣,三浦追儺'
     language            = 'zh-tw'
