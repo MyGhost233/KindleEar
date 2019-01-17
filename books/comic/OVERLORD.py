@@ -6,7 +6,7 @@ from .cartoonmadbase import CartoonMadBaseBook
 def getBook():
     return OVERLORD
 
-class Hunter(CartoonMadBaseBook):
+class OVERLORD(CartoonMadBaseBook):
     title               = u'[漫画]OVERLORD'
     description         = u'原創作者： 丸山くがね, 深山フギン'
     language            = 'zh-tw'
