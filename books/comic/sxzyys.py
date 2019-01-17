@@ -6,7 +6,7 @@ from .cartoonmadbase import CartoonMadBaseBook
 def getBook():
     return sxzyys
 
-class Hunter(CartoonMadBaseBook):
+class sxzyys(CartoonMadBaseBook):
     title               = u'[漫画]雙星之陰陽師'
     description         = u' 原創作者： 助野嘉昭'
     language            = 'zh-tw'
