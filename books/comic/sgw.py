@@ -6,7 +6,7 @@ from .cartoonmadbase import CartoonMadBaseBook
 def getBook():
     return sgw
 
-class Hunter(CartoonMadBaseBook):
+class sgw(CartoonMadBaseBook):
     title               = u'[漫画]失格纹的最强贤者'
     description         = u'原創作者： 肝匠, 馮昊, 進行諸島'
     language            = 'zh-tw'
