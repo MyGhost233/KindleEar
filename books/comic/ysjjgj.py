@@ -6,7 +6,7 @@ from .cartoonmadbase import CartoonMadBaseBook
 def getBook():
     return ysjjgj
 
-class Hunter(CartoonMadBaseBook):
+class ysjjgj(CartoonMadBaseBook):
     title               = u'[漫画]異世界建國記'
     description         = u'原創作者： KOIZUMI, 櫻木櫻'
     language            = 'zh-tw'
