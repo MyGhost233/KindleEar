@@ -6,7 +6,7 @@ from .cartoonmadbase import CartoonMadBaseBook
 def getBook():
     return rjtx
 
-class Hunter(CartoonMadBaseBook):
+class rjtx(CartoonMadBaseBook):
     title               = u'[漫画]入间同学入魔了'
     description         = u'原創作者： 西修'
     language            = 'zh-tw'
