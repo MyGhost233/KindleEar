@@ -6,7 +6,7 @@ from .cartoonmadbase import CartoonMadBaseBook
 def getBook():
     return jssbqyjs
 
-class Hunter(CartoonMadBaseBook):
+class jssbqyjs(CartoonMadBaseBook):
     title               = u'[漫画]即使是不起眼劍聖亦是最強'
     description         = u'原創作者： あっぺ,明石六郎'
     language            = 'zh-tw'
