@@ -6,7 +6,7 @@ from .cartoonmadbase import CartoonMadBaseBook
 def getBook():
     return slm
 
-class Hunter(CartoonMadBaseBook):
+class slm(CartoonMadBaseBook):
     title               = u'[漫画]關於我轉生後成為史萊姆的那件事'
     description         = u' 原創作者： 川上泰樹,伏瀨'
     language            = 'zh-tw'
