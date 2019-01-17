@@ -6,7 +6,7 @@ from .cartoonmadbase import CartoonMadBaseBook
 def getBook():
     return ysjkxq
 
-class Hunter(CartoonMadBaseBook):
+class ysjkxq(CartoonMadBaseBook):
     title               = u'[漫画]从死亡之旅开始的异世界狂想曲'
     description         = u'原創作者： あやめぐむ,愛七ひろ'
     language            = 'zh-tw'
