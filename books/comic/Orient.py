@@ -6,7 +6,7 @@ from .cartoonmadbase import CartoonMadBaseBook
 def getBook():
     return Orient
 
-class Hunter(CartoonMadBaseBook):
+class Orient(CartoonMadBaseBook):
     title               = u'[漫画]Orient'
     description         = u'原創作者： 大高忍'
     language            = 'zh-tw'
