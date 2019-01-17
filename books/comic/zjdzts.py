@@ -14,4 +14,4 @@ class Hunter(CartoonMadBaseBook):
     page_encoding       = 'big5'
     mastheadfile        = 'mh_default.gif'
     coverfile           = 'cv_bound.jpg'
-    feeds               = [(u'[漫画]賢者之孫', 'https://www.cartoonmad.com/comic/2549.html')]
+    feeds               = [(u'[漫画]終結的熾天使', 'https://www.cartoonmad.com/comic/2549.html')]
