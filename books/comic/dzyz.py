@@ -6,7 +6,7 @@ from .cartoonmadbase import CartoonMadBaseBook
 def getBook():
     return dzyz
 
-class Hunter(CartoonMadBaseBook):
+class dzyz(CartoonMadBaseBook):
     title               = u'[漫画]盾之勇者成名錄'
     description         = u'原創作者： アネコユサギ 藍屋球'
     language            = 'zh-tw'
