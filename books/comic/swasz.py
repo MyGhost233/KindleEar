@@ -6,9 +6,9 @@ from .manhuaguibase import ManHuaGuiBaseBook
 def getBook():
     return swasz
 
-class OVERLORD(ManHuaGuiBaseBook):
+class swasz(ManHuaGuiBaseBook):
     title               = u'[漫画]身为暗杀者的我明显比勇者还强'
-    description         = u'原創作者： 丸山くがね, 深山フギン'
+    description         = u'原創作者： 合鸭ひろゆき , 赤井まつり'
     language            = 'zh-tw'
     feed_encoding       = 'big5'
     page_encoding       = 'big5'
