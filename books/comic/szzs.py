@@ -6,7 +6,7 @@ from .cartoonmadbase import CartoonMadBaseBook
 def getBook():
     return xzzs
 
-class Hunter(CartoonMadBaseBook):
+class xzzs(CartoonMadBaseBook):
     title               = u'[漫画]賢者之孫'
     description         = u'原創作者： 緒方俊輔, 吉岡剛'
     language            = 'zh-tw'
