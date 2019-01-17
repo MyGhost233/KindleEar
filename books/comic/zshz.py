@@ -6,7 +6,7 @@ from .cartoonmadbase import CartoonMadBaseBook
 def getBook():
     return zshz
 
-class Hunter(CartoonMadBaseBook):
+class zshz(CartoonMadBaseBook):
     title               = u'[漫画]咒術回戰'
     description         = u'原創作者： 芥見下々'
     language            = 'zh-tw'
