@@ -6,7 +6,7 @@ from .cartoonmadbase import CartoonMadBaseBook
 def getBook():
     return blbw
 
-class Hunter(CartoonMadBaseBook):
+class blbw(CartoonMadBaseBook):
     title               = u'[漫画]百炼霸王与圣约女武神'
     description         = u'原創作者： 鷹山誠一,chany'
     language            = 'zh-tw'
