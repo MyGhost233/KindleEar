@@ -6,7 +6,7 @@ from .cartoonmadbase import CartoonMadBaseBook
 def getBook():
     return zjdzts
 
-class Hunter(CartoonMadBaseBook):
+class zjdzts(CartoonMadBaseBook):
     title               = u'[漫画]終結的熾天使'
     description         = u'原創作者： 鏡貴也,山本大和'
     language            = 'zh-tw'
