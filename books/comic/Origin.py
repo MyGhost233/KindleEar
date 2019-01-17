@@ -6,7 +6,7 @@ from .cartoonmadbase import CartoonMadBaseBook
 def getBook():
     return Origin
 
-class Hunter(CartoonMadBaseBook):
+class Origin(CartoonMadBaseBook):
     title               = u'[漫画]Origin-源型機'
     description         = u'原創作者： Boichi'
     language            = 'zh-tw'
