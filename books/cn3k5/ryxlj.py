@@ -5,10 +5,10 @@ from books.Novelbase import cn3k5
 
 
 def getBook():
-    return Ruyixlj
+    return ryxlj
 
 
-class Ruyixlj(cn3k5):
+class ryxlj(cn3k5):
     title = u'[小说]如意小郎君'
     description = u'荣小荣'
     feeds = 'http://www.cn3k5.com/10/10170/'
