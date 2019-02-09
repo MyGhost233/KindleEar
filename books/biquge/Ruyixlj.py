@@ -5,10 +5,10 @@ from books.Novelbase import xxbiqugebase
 
 
 def getBook():
-    return Ruyixiaolangjun
+    return Ruyixlj
 
 
-class Ruyixiaolangjun(xxbiqugebase):
+class Ruyixlj(xxbiqugebase):
     title = u'[小说]如意小郎君'
     description = u'荣小荣'
 feeds = 'https://www.xxbiquge.com/48_48247/'
